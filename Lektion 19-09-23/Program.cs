@@ -6,23 +6,29 @@ namespace Lektion_19_09_23
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hhehe");
-            Console.WriteLine("hhehe");
-            Console.WriteLine("hhehe");
-            Console.WriteLine("hhehe");
-            Console.WriteLine("hhehe");
-            Console.WriteLine("hhehe");
+
+            var name = "tobias";
 
 
-            if (true)
-            {
+            // kan vara vilken typ av datatyp som helst utom objekt.
 
-            }
-            else
-            {
+            var number = 2;
+
+            var b = true;
+
+            var e = 'E';
+
+            var numbz = 2.3;
 
 
-            }
+
+            dynamic num = 10;
+
+            num = "tobias";
+
+
+
+            
         }
     }
 }
