@@ -10,6 +10,8 @@ namespace Lektion_19_09_23
             Console.WriteLine("hhehe");
             Console.WriteLine("hhehe");
             Console.WriteLine("hhehe");
+            Console.WriteLine("hhehe");
+            Console.WriteLine("hhehe");
         }
     }
 }
